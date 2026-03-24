@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm tty
 
-<!--
-**tty627/tty627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS freshman building AI tools, trading systems, and side projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CS freshman
+- Interested in AI tools, quant / trading systems, and practical products
+- Mainly using Python, Go, and JavaScript
+- Building around market context, decision support, and visualization
+- Learning by shipping
+
+## Featured Projects
+
+- [btc-30m-event-contract-assistant](https://github.com/tty627/btc-30m-event-contract-assistant)
+- [btc_context_tool](https://github.com/tty627/btc_context_tool)
+- [cryptoview](https://github.com/tty627/cryptoview)
+- [deep-trader](https://github.com/tty627/deep-trader)
+
+## Current Focus
+
+- BTC market context tooling
+- AI-assisted trading workflow
+- Useful side projects with clear UX
