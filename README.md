@@ -1,24 +1,15 @@
-# Hi, I'm tty
+# Hey, I'm tty 👋
 
-CS freshman building AI tools, trading systems, and side projects.
+CS sophomore @ ShanghaiTech University.
 
-## About Me
+📷 Photography · 🥾 Hiking · 🎧 Music
 
-- CS freshman
-- Interested in AI tools, quant / trading systems, and practical products
-- Mainly using Python, Go, and JavaScript
-- Building around market context, decision support, and visualization
-- Learning by shipping
+[Website](https://tty627.github.io/) · [Projects](https://tty627.github.io/projects/)
 
-## Featured Projects
+---
 
-- [btc-30m-event-contract-assistant](https://github.com/tty627/btc-30m-event-contract-assistant)
-- [btc_context_tool](https://github.com/tty627/btc_context_tool)
-- [cryptoview](https://github.com/tty627/cryptoview)
-- [deep-trader](https://github.com/tty627/deep-trader)
-
-## Current Focus
-
-- BTC market context tooling
-- AI-assisted trading workflow
-- Useful side projects with clear UX
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tty627/tty627/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tty627/tty627/output/github-snake.svg" />
+  <img alt="A snake eating my GitHub contributions" src="https://raw.githubusercontent.com/tty627/tty627/output/github-snake.svg" />
+</picture>
