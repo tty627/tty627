@@ -1,4 +1,4 @@
-# Hey, I'm kissshot 👋
+# Hey, I'm Kissshot 👋
 
 CS sophomore @ ShanghaiTech University.
 
